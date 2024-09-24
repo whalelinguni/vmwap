@@ -12,3 +12,6 @@ Option to unlock vmware
 
 everything (mostly) is dynamically updated and downloadeded. outside of major version changes this script should continue to work.
 
+***MUST RUN ELEVATED***
+
+Packing into an exe currently, elevation is the issue. Script has been fully tested and works without issues elevated. Just debugging some oddities when compiled to exe. 
